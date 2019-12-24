@@ -1,0 +1,15 @@
+﻿
+/*!
+This file is part of DecSoft App Builder.
+Visit our website for license information.
+Copyright ©2019 DecSoft. All rights reserved.
+Visit our website at: https://www.davidesperalta.com
+
+*/
+
+
+html, body { width: 320px; height: 480px; }
+
+#view1 #Quitter { position: absolute; top: 91.67%; left: 22.50%; width: 43.75%; height: 6.67%; }
+
+#view1 #image1 { position: absolute; top: 1.67%; left: 2.50%; width: 95.00%; height: 85.00%; }
